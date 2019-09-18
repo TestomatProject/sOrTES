@@ -1,0 +1,45 @@
+// Dependency Graph
+digraph {
+	"Test 0" [label="Name: Test 0
+Time: 41.64995259284053
+Score: 8.0"]
+	"Test 1" [label="Name: Test 1
+Time: 40.476346320282744
+Score: 2.0"]
+	"Test 2" [label="Name: Test 2
+Time: 48.49660819391942
+Score: 10.0"]
+	"Test 3" [label="Name: Test 3
+Time: 69.81150298139914
+Score: 1.0"]
+	"Test 4" [label="Name: Test 4
+Time: 87.61887772915641
+Score: 3.0"]
+	"Test 5" [label="Name: Test 5
+Time: 33.768167413499036
+Score: 2.0"]
+	"Test 6" [label="Name: Test 6
+Time: 90.00728033751511
+Score: 2.0"]
+	"Test 7" [label="Name: Test 7
+Time: 85.77257222062545
+Score: 5.0"]
+	"Test 8" [label="Name: Test 8
+Time: 18.61637194132123
+Score: 9.0"]
+	"Test 9" [label="Name: Test 9
+Time: 93.0940157893895
+Score: 5.0"]
+	"Test 0" -> "Test 1"
+	"Test 1" -> "Test 2"
+	"Test 0" -> "Test 4"
+	"Test 3" -> "Test 4"
+	"Test 4" -> "Test 5"
+	"Test 4" -> "Test 6"
+	"Test 6" -> "Test 7"
+	"Test 1" -> "Test 8"
+	"Test 3" -> "Test 8"
+	"Test 6" -> "Test 8"
+	"Test 7" -> "Test 8"
+	"Test 8" -> "Test 9"
+}

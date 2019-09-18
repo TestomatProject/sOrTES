@@ -1,0 +1,210 @@
+Brake-IVV-042;80;SyTs_Drive-IVV-028,SyTs_Drive-S-IVV-046;R-IVV-1,R-IVV-2
+AirSupply-IVV-043;10;SyTs Brake-IVV-030;R-IVV-3
+AirSupply-IVV-044;50;SyTs BrakeTest-IVV-063;R-IVV-4,R-IVV-5
+AirSupply-IVV-038;60;SyTS_Aux-IVV-003,SyTs_Battery-IVV-074;R-IVV-6,R-IVV-7
+LineVoltage-IVV-023;50;SyTs AirSupply-IVV-035;R-IVV-8
+LineVoltage-IVV-061;10;SyTs AirSupply-IVV-036;R-IVV-9
+SyTs AirSupply-IVV-047;10;HVAC-IVV-007;R-IVV-10
+Drive_S-IVV-054;25;SyTs_ATP_S-IVV-064;R-IVV-11
+Drive_S-IVV-011;100;SyTs_Drive-IVV-030,SyTs_Brake-IVV-004,SyTs_Brake_S-IVV-009;R-IVV-12,R-IVV-13,R-IVV-14
+Drive-IVV-030;15;SyTs Speed-IVV-004;R-IVV-15
+SyTs Speed-IVV-004;10;SyTs Speed_S-IVV-005;R-IVV-16
+SyTs_Battery-IVV-074;25;Drive_S-IVV-046;R-IVV-17
+SyTs AirSupply-IVV-035;10;;R-IVV-5
+Brake-IVV-004;30;SyTs Speed_S-IVV-005;R-IVV-18
+SyTs_ATP_S-IVV-064;10;;R-IVV-17
+SyTs Speed_S-IVV-005;10;;R-IVV-18
+Drive_S-IVV-024;45;SyTs_ExtDoors_S-IVV-022,SyTs_Brake-IVV-031,SyTs_Brake-IVV-041;R-IVV-19
+Brake-IVV-031;15;SyTs_ExtDoors_S-IVV-011;R-IVV-22
+SyTS_Aux-IVV-003;15;Brake-IVV-031;R-IVV-23
+SyTs_Drive-S-IVV-046;85;;R-IVV-14,R-IVV-24
+SyTs_Drive-IVV-028;90;SyTs_Brake-IVV-041;R-IVV-23,R-IVV-17
+Brake IVV-034;15;SyTs_Brake-IVV-041;R-IVV-25
+Brake IVV-025;45;SyTs_Drive-S-IVV-046;R-IVV-25,R-IVV-7
+Brake IVV-026;55;SyTs_Drive-IVV-028;R-IVV-6,R-IVV-17
+Air supply IVV-049;65;SyTs_Drive-S-028;R-IVV-25,R-IVV-17
+Air supply IVV-050;110;Brake IVV-034;R-IVV-1,R-IVV-13,R-IVV-30
+SyTs AirSupply-IVV-036;35;Brake IVV-034;R-IVV-26,R-IVV-27
+Air supply IVV-053;15;Brake IVV-035;R-IVV-28
+Boggie-IVV-044;55;SyTs_Drive-IVV-030,SyTs_Brake-IVV-040,SyTs_Brake_S-IVV-032;R-IVV-29
+Boggie-IVV-045;110;Brake IVV-033,Brake IVV-043,SyTs_Brake_S-IVV-009;R-IVV-25,R-IVV-17
+SyTs_Brake_S-IVV-009;10;;R-IVV-30
+Boggie-IVV-047;75;;R-IVV-30,R-IVV-17
+Boggie-IVV-048;70;Brake IVV-021;R-IVV-31,R-IVV-32
+Boggie-IVV-049;60;SyTS_Aux-IVV-30,SyTs_Battery-IVV-024;R-IVV-33
+Boggie-IVV-050+B38;100;SyTs_Battery-IVV-020;R-IVV-34,R-IVV-35,R-IVV-36
+Boggie-IVV-051;15;Boggie-IVV-052;R-IVV-37
+Drive_S-IVV-046;10;;R-IVV-38,R-IVV-39
+SyTs_ExtDoors_S-IVV-022;10;;R-IVV-40
+Boggie-IVV-054;10;Boggie-IVV-051;R-IVV-41,R-IVV-42
+Boggie-IVV-052;15;Boggie-IVV-055;R-IVV-43
+CCTV-S-032;25;Boggie-IVV-053;R-IVV-44
+SyTs_Brake-IVV-041;15;;R-IVV-45
+SyTs_ExtDoors_S-IVV-011;95;;R-IVV-46,R-IVV-38
+CCTV-S-035;70;SyTs AirSupply-IVV-047;R-IVV-47,R-IVV-48
+SyTs_Drive-S-028;15;;R-IVV-49,R-IVV-17
+CCTV-S-037;35;SyTs AirSupply-IVV-048;R-IVV-50,R-IVV-51
+Brake IVV-035;12;;R-IVV-52
+CCTV-S-039;13;CCTV-S-037;R-IVV-53
+SyTs Brake-IVV-030;15;CCTV-S-037;R-IVV-54,R-IVV-55
+CCTV-S-037;35;SyTs AirSupply-IVV-51;R-IVV-56
+CCTV-S-042;45;SyTs AirSupply-IVV-52;R-IVV-57,R-IVV-19
+SyTs AirSupply-IVV-51;45;SyTs AirSupply-IVV-53;R-IVV-58,R-IVV-12
+CCTV-S-044;45;CCTV-S-098;R-IVV-59,R-IVV-60
+SyTs_Brake-IVV-004;45;;R-IVV-61,R-IVV-62
+SyTs AirSupply-IVV-52;45;;R-IVV-63,R-IVV-18
+CCTV-S-047;100;;R-IVV-64,R-IVV-65
+CCTV-S-048;20;;R-IVV-66
+SyTs AirSupply-IVV-53;60;SyTs_Drive-IVV-031,SyTs_Brake-IVV-041;R-IVV-67,R-IVV-10
+SyTs_Drive-IVV-031;65;SyTs_Brake_S-IVV-035;R-IVV-68,R-IVV-23
+CCTV-S-051;60;SyTs_Brake-IVV-042,SyTs_Brake_S-IVV-045;R-IVV-59,R-IVV-70
+SyTs_Brake-IVV-042;10;;R-IVV-71
+SyTs_Brake_S-IVV-045;10;;R-IVV-72
+CCTV-S-054;10;;R-IVV-73
+Boggie-IVV-053;10;;R-IVV-74
+CCTV-S-056;35;;R-IVV-75
+CCTV-S-057;30;;R-IVV-76
+CCTV-S-058;20;;R-IVV-77
+CCTV-S-059;15;;R-IVV-78
+CCTV-S-060;35;Exterior Lights-S- 043;R-IVV-79
+SyTs_Drive-IVV-030;35;Safe Fire-IVV-015;R-IVV-80
+CCTV-S-062;36;Safe Fire-IVV-016;R-IVV-81
+CCTV-S-063;45;Safe Fire-IVV-017;R-IVV-82,R-IVV-17
+Safe Fire-IVV-016;75;Safe Fire-IVV-018;R-IVV-81,R-IVV-30,R-IVV-19
+Safe Fire-IVV-015;76;Safe Fire-IVV-019;R-IVV-84,R-IVV-85
+CCTV-S-066;25;Safe Fire-IVV-020;R-IVV-86
+Safe Fire-IVV-017;10;Safe Fire-IVV-021;R-IVV-87
+SyTs_Brake_S-IVV-035;10;Safe Fire-IVV-022;R-IVV-88
+CCTV-S-069;65;Safe Fire-IVV-023;R-IVV-89,R-IVV-17
+CCTV-S-070;65;Safe Fire-IVV-024;R-IVV-90,R-IVV-1
+CCTV-S-071;65;Safe Fire-IVV-025;R-IVV-91,R-IVV-92
+CCTV-S-072;65;Safe Fire-IVV-026;R-IVV-93,R-IVV-94
+CCTV-S-073;70;Safe Fire-IVV-027;R-IVV-25,R-IVV-95
+CCTV-S-074;25;Exterior Lights-S- 066;R-IVV-96
+CCTV-S-075;10;Exterior Lights-S- 067;R-IVV-97
+CCTV-S-076;10;Exterior Lights-S- 068;R-IVV-98
+CCTV-S-077;25;Vehicle Coupler-IVV-126;R-IVV-99
+CCTV-S-078;35;Vehicle Coupler-IVV-127;R-IVV-100
+CCTV-S-079;60;Vehicle Coupler-IVV-128;R-IVV-101,R-IVV-67
+CCTV-S-080;60;Safe Fire-IVV-070;R-IVV-100,R-IVV-101
+CCTV-S-081;60;Safe Fire-IVV-071;R-IVV-102,R-IVV-103
+CCTV-S-082;10;;R-IVV-104
+CCTV-S-083;15;Drive function-S-040;R-IVV-105
+Safe Fire-IVV-070;25;Drive function-S-041;R-IVV-106
+Drive function-S-040;25;Drive function-S-042;R-IVV-65,R-IVV-107
+CCTV-S-086;25;;R-IVV-108
+CCTV-S-087;45;;R-IVV-109
+CCTV-S-088;35;;R-IVV-110
+CCTV-S-089;10;;R-IVV-111
+SyTS_Aux-IVV-30;60;;R-IVV-112,R-IVV-7
+Boggie-IVV-055;60;;R-IVV-1,R-IVV-2
+Safe Fire-IVV-018;60;;R-S-3
+Safe Fire-IVV-019;65;Vehicle Coupler-IVV-119;R-S-4,R-S-6
+Safe Fire-IVV-020;10;Vehicle Coupler-IVV-120;R-S-6
+Safe Fire-IVV-021;10;Vehicle Coupler-IVV-121;R-S-7
+Safe Fire-IVV-022;25;Vehicle Coupler-IVV-129;R-S-8
+Safe Fire-IVV-023;25;Vehicle Coupler-IVV-130;R-S-10
+Safe Fire-IVV-024;25;;R-S-11
+Safe Fire-IVV-025;110;;R-S-12,R-S-13,R-S-14
+Safe Fire-IVV-026;25;;R-S-15
+Safe Fire-IVV-027;25;;R-S-16
+Exterior Lights-S- 066;25;;R-S-17
+HVAC-IVV-007;10;;R-S-5
+Safe Fire-S-020;10;;R-S-18
+Safe Fire-S-021;10;;R-S-17
+Safe Fire-S-022;10;;R-S-18
+Safe Fire-S-023;10;;R-S-19
+Safe Fire-S-024;10;;R-S-22
+Vehicle Coupler-IVV-130;35;;R-S-23
+SyTs BrakeTest-IVV-063;100;Drive function-S-359;R-S-14,R-S-24
+SyTs_Brake-IVV-031;25;Drive function-S-360;R-S-23,R-S-17
+Drive function-S-359;10;;R-S-25
+Drive function-S-360;65;;R-S-25,R-S-7
+SyTs_Brake-IVV-040;65;Drive function-S-363;R-S-6,R-S-17
+Drive function-S-363;65;Drive function-S-364;R-S-25,R-S-17
+Exterior Lights-S- 041;100;;R-S-1,R-S-13,R-S-30
+Drive function-S-364;25;Drive function-S-366;R-S-26,R-S-27
+Drive function-S-366;25;;R-S-28
+Exterior Lights-S- 044;10;Drive function-S-368;R-S-29
+Exterior Lights-S- 045;65;Drive function-S-369;R-S-25,R-S-17
+Exterior Lights-S- 046;25;Drive function-S-370;R-S-30
+Exterior Lights-S- 047;45;;R-S-30,R-S-17
+Drive function-S-370;70;;R-S-31,R-S-32
+Exterior Lights-S- 049;10;;R-S-33
+Drive function-S-369;100;;R-SV-34,R-S-35,R-S-36
+Exterior Lights-S- 051;25;;R-S-37
+SyTs AirSupply-IVV-048;65;;R-S-38,R-S-39
+Exterior Lights-S- 053;70;;R-S-40
+Exterior Lights-S- 054;100;Exterior Lights-S- 055;R-S-41,R-S-42
+Exterior Lights-S- 055;25;SyTs Brake-S-030;R-S-43
+Exterior Lights-S- 056;25;SyTs Brake-S-030;R-S-44
+Exterior Lights-S- 057;25;SyTs Brake-S-030,SyTs_Battery-S-074;R-S-45
+SyTs Brake-S-030;45;;R-S-46,R-S-38
+Exterior Lights-S- 059;45;;R-S-47,R-S-48
+SyTs_Battery-S-074;45;SyTs AirSupply-S-047;R-S-49,R-S-17
+SyTs AirSupply-S-047;35;Exterior Lights-S- 062;R-S-50,R-S-51
+Exterior Lights-S- 062;25;SyTs_Drive-S-030,SyTs_Brake_S-S-009;R-S-52
+SyTs_Battery-IVV-020;10;;R-S-53
+SyTs_Drive-S-030;35;Exterior Lights-S- 065;R-S-54,R-S-55
+SyTs_Brake_S-S-009;25;;R-S-56
+Vehicle Coupler-IVV-126;25;Exterior Lights-S- 069;R-S-57,R-S-19
+Exterior Lights-S- 067;60;;R-S-58,R-S-12
+Vehicle Coupler-IVV-127;65;Exterior Lights-S- 067;R-S-59,R-S-60
+Vehicle Coupler-IVV-128;65;Exterior Lights-S- 067;R-S-61,R-S-62
+Exterior Lights-S- 070;15;Vehicle Coupler-IVV-091;R-S-63,R-S-18
+Exterior Lights-S- 071;10;Vehicle Coupler-IVV-091;R-S-64,R-S-65
+Exterior Lights-S- 072;15;;R-S-66
+Exterior Lights-S- 073;95;Vehicle Coupler-IVV-091;R-S-67,R-S-10
+Exterior Lights-S- 074;15;Vehicle Coupler-IVV-092;R-S-68,R-S-23
+Exterior Lights-S- 075;15;Vehicle Coupler-IVV-092;R-S-59,R-S-70
+Exterior Lights-S- 076;25;;R-S-71
+Exterior Lights-S- 077;20;;R-S-72
+Exterior Lights-S- 078;25;Vehicle Coupler-IVV-093;R-S-73
+Exterior Lights-S- 079;25;Exterior Lights-S- 080;R-S-74
+Exterior Lights-S- 080;25;Exterior Lights-S- 077;R-S-75
+Exterior Lights-S- 081;25;;R-S-76
+Exterior Lights-S- 082;10;;R-S-77
+Vehicle Coupler-IVV-071;10;;R-S-78
+Vehicle Coupler-IVV-072;10;;R-S-79
+Vehicle Coupler-IVV-073;10;;R-S-80
+Vehicle Coupler-IVV-074;10;;R-S-81
+Vehicle Coupler-IVV-075;35;Vehicle Coupler-IVV-076;R-S-82,R-S-17
+Vehicle Coupler-IVV-076;35;Vehicle Coupler-IVV-077;R-S-81,R-S-30,R-S-19
+Vehicle Coupler-IVV-077;100;;R-S-84,R-S-85
+Vehicle Coupler-IVV-078;25;Vehicle Coupler-IVV-076;R-S-86
+Vehicle Coupler-IVV-079;25;Vehicle Coupler-IVV-076;R-S-87
+Vehicle Coupler-IVV-080;15;;R-S-88
+Vehicle Coupler-IVV-081;15;Vehicle Coupler-IVV-083;R-S-89,R-S-17
+Vehicle Coupler-IVV-083;25;Vehicle Coupler-IVV-084;R-S-90,R-S-1
+Brake IVV-021;10;;R-S-91,R-S-92
+Vehicle Coupler-IVV-084;10;;R-S-93,R-S-94
+Vehicle Coupler-IVV-119;100;;R-S-25,R-S-95
+Drive function-S-041;10;;R-S-96
+Vehicle Coupler-IVV-087;15;;R-S-97
+Vehicle Coupler-IVV-088;25;Vehicle Coupler-IVV-089,Vehicle Coupler-IVV-090,Vehicle Coupler-IVV-091;R-S-98
+Vehicle Coupler-IVV-089;10;;R-S-99
+Vehicle Coupler-IVV-090;10;;R-S-100
+Vehicle Coupler-IVV-091;35;;R-S-101,R-S-67
+Vehicle Coupler-IVV-092;45;Vehicle Coupler-IVV-088;R-S-100,R-S-101
+Vehicle Coupler-IVV-093;45;;R-S-102,R-S-103
+Vehicle Coupler-IVV-094;10;Vehicle Coupler-IVV-095;R-S-104
+Vehicle Coupler-IVV-095;10;Vehicle Coupler-IVV-096;R-S-105
+Vehicle Coupler-IVV-096;15;;R-S-106
+Vehicle Coupler-IVV-097;35;;R-S-65,R-S-107
+SyTs_Battery-IVV-024;10;;R-S-108
+Vehicle Coupler-IVV-099;15;Vehicle Coupler-IVV-098;R-S-109
+Vehicle Coupler-IVV-120;15;Vehicle Coupler-IVV-098;R-S-110
+Vehicle Coupler-IVV-121;10;Vehicle Coupler-IVV-098;R-S-111
+Vehicle Coupler-IVV-129;25;Vehicle Coupler-IVV-097;R-S-112,R-S-7
+Vehicle Coupler-IVV-098;45;Vehicle Coupler-IVV-097;R-S-112,R-S-7
+SyTs_Brake_S-IVV-032;40;AirSupply-IVV-038;R-S-121
+Brake IVV-033;30;AirSupply-IVV-044;R-S-9
+Brake IVV-043;25;Brake-IVV-042;R-IVV-2
+CCTV-S-098;75;AirSupply-IVV-044;R-IVV-61,R-IVV-62
+Exterior Lights-S- 043;90;Boggie-IVV-048;R-IVV-1,R-IVV-13,R-IVV-30
+Exterior Lights-S- 068;25;LineVoltage-IVV-061;R-IVV-9
+Safe Fire-IVV-071;15;SyTs_Drive-S-IVV-046;R-S-9
+Drive function-S-042;10;Exterior Lights-S- 082;R-S-77
+Drive function-S-368;20;Exterior Lights-S- 045;R-S-57,R-S-19
+Exterior Lights-S- 065;25;Exterior Lights-S- 041;R-S-59,R-S-60
+Exterior Lights-S- 069;35;Vehicle Coupler-IVV-128;R-S-37
